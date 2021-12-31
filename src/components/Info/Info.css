@@ -1,0 +1,43 @@
+.Info {
+    text-align: center;
+}
+
+.photo {
+    width: 20em;
+}
+
+.orange {
+    color: #F3BF99;
+}
+
+button {
+    border: none;
+    border-radius: .8em;
+}
+
+button:focus {
+    outline: none;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.email-btn {
+    margin-right: .8em;
+    padding: 0.3em 1.3em 0 1.3em;
+    display: flex;
+}
+
+.linkedin-btn {
+    color: #fff;
+    background: #5093E2;
+    padding: .3em 1em;
+}
+
+h5 {
+    margin: 0 0 0.5em;
+    color: #DCDCDC;
+}
